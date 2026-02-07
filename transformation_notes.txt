@@ -1,0 +1,11 @@
+Customer Churn Dataset – Transformation Notes
+
+1. Imported the customer churn dataset into Power BI.
+2. Opened Power Query Editor to review and validate the data.
+3. Renamed columns to make them clear and consistent.
+4. Checked and corrected data types for numeric and text columns.
+5. Verified missing values and applied replacements where required.
+6. Reordered columns for better readability.
+7. Created a conditional column (Charge_Band) based on Monthly Charges.
+8. Applied all transformations and loaded the cleaned data into the model.
+9. Built visuals using the transformed data for churn analysis.
